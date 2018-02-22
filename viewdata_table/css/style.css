@@ -1,0 +1,33 @@
+
+body {
+	background: #3fed24;
+}
+@font-face {
+	font-family: vd;
+	src: url('../fonts/vdub.ttf');
+	
+	font-family: vac;
+	src: url('../fonts/vacaciones.ttf');
+
+	font-family: roboto;
+	src: url('../fonts/roboto_italic.ttf');
+}
+
+
+
+th {
+	font-family: roboto;
+	font-size: 15
+	px;
+}
+
+td {
+	font-family: vd;
+	font-size: 15px;
+}
+
+h1 {
+	font-family: vac;
+	font-size: 50px;
+}
+
